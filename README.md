@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ameetmaurya
 - 👀 I’m interested in learning new things everyday
-- 🌱 I’m currently learning web development
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
